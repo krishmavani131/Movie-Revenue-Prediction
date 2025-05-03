@@ -5,7 +5,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2405.11651-b31b1b.svg)](https://arxiv.org/abs/2405.11651)
 [![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-brightgreen.svg)](https://movie-revenue-prediction.streamlit.app)
 
-[Academia Paper](https://www.academia.edu/119091410/Movie_Revenue_Prediction)
+[Academia Paper](https://www.academia.edu/119091410/Movie_Revenue_Prediction) | [Wiki](https://deepwiki.com/Vikranth3140/Movie-Revenue-Prediction)
 
 ## Introduction
 
